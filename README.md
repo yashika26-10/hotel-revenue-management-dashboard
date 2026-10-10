@@ -64,3 +64,22 @@ The dataset covers April–July 2022, so conclusions about seasonality are limit
 **Yashika Sharma**  
 B.Tech — Computer Science and Data Science  
 ABES Engineering College, Ghaziabad
+---
+
+## Dashboard Screenshots
+
+### 1. Room Occupancy and Hotel Overview
+![Room Occupancy and Hotel Overview](screenshots/Room%20Occupancy%20and%20Hotel%20Overview.png)
+
+### 2. Revenue Optimisation and Property Performance
+![Revenue Optimisation and Property Performance](screenshots/Revenue%20Optimisation%20and%20Property%20Performance.png)
+
+### 3. Seasonal Trends and Revenue Optimisation
+![Seasonal Trends and Revenue Optimisation](screenshots/Seasonal%20Trends%20and%20Revenue%20Optimisation.png)
+
+## Project Documentation
+
+- [Power BI Dashboard](Hotel_Revenue_Management_Dashboard.pbix)
+- [Excel Analysis Workbook](Hotel_Revenue_Management_Analysis.xlsx)
+- [Project Presentation](docs/Hotel_Revenue_Management_Project_Presentation.pptx)
+- [Software Requirements Specification (SRS)](docs/Hotel_Revenue_Management_SRS_Yashika_Sharma_final.docx)
